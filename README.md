@@ -6,3 +6,5 @@
              50/533 (10% Completed)
 11/12/2018 - Started and completed Section 7
              76/533 (14% Completed)
+11/18/2018 - Started ard completed Section 8
+             98/533 (18% Completed)
