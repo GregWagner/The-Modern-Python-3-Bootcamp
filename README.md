@@ -18,3 +18,5 @@
              146/533 (27% Completed)
 11/21/2018 - Started and completed Section 13
              162/533 (30% Completed)
+11/23/2018 - Started and completed Section 14
+             183/533 (34% Completed)
