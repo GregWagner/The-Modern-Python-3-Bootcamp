@@ -24,3 +24,5 @@
              191/545 (35% Completed)
 11/24/2018 - Started and completed Section 16
              199/545 (37% Completed)
+11/24/2018 - Started and completed Section 17
+             221/545 (41% Completed)
