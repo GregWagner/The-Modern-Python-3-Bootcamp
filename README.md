@@ -30,3 +30,7 @@
              249/545 (46% Completed)
 11/25/2018 - Started and completed Section 19
              263/545 (49% Completed)
+11/26/2018 - Started and completed Section 20
+             297/545 (55% Completed)
+11/28/2018 - Started and completed Section 21
+             306/545 (57% Completed)
