@@ -38,3 +38,5 @@
              321/545 (59% Completed)
 12/08/2018 - Started and completed Section 23
              329/545 (61% Completed)
+12/12/2018 - Started and completed Section 23
+             350/545 (65% Completed)
