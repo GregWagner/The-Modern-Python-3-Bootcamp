@@ -42,5 +42,7 @@
              350/545 (65% Completed)
 12/18/2018 - Started and completed Section 24
              356/545 (66% Completed)
-12/20/2018 - Started and completed Section 25
+12/20/2018 - Started and completed Section 26
              372/545 (69% Completed)
+12/21/2018 - Started and completed Section 27
+             393/545 (73% Completed)
