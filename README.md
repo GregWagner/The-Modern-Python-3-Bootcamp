@@ -54,3 +54,5 @@
              440/545 (81% Completed)
 01/11/2018 - Started and completed Section 31
              457/545 (84% Completed)
+01/16/2018 - Started and completed Section 32
+             465/545 (86% Completed)

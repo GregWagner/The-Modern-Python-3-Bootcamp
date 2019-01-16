@@ -1,0 +1,25 @@
+Beautiful soup does not download HTML - you need the requests module
+
+parse HTNL using 
+BeautifulSoup(html_string, "html.parser")
+
+once parsed, there are several ways to navigate
+    * by tag name
+    * find - returns on matching tag
+    * find_all - returns a list of matching tages
+
+Accessing Data
+    * get_text - access the inner text in an element
+    * name - tag name
+    * attrs - directionary of attributes
+
+Navigating with BeautifulSoup 
+    * via tags
+        * parent(s)
+        * contents
+        * next_sibling(s)
+        * previous_sibling(s)
+    * via searching
+        * find_parent(s)
+        * find_next_sibling(s)
+        * find_previous_sibling(s)
