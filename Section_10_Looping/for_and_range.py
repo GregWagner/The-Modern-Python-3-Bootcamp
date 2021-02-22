@@ -1,5 +1,6 @@
 x = 0
 
-for item in range(11, 21, 2):
-    x += item
+for i in range(11, 20, 2):
+    x += i
 
+print(x)

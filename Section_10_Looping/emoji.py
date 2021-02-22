@@ -1,13 +1,11 @@
-line = ""
-for i in range(1, 10):
-    line += "*" * i
-    line += "\n"
+line = ''
+for count in range(1, 11):
+    line += "\U0001f600" * count + '\n'
 print(line)
 
-line = ""
-i = 0
-while i < 11:
-    line += "*" * i
-    line += "\n"
-    i += 1
+line = ''
+count = 1
+while count <= 10:
+    line += "\U0001f600" * count + '\n'
+    count += 1
 print(line)

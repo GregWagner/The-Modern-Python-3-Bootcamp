@@ -1,4 +1,5 @@
 import random
+
 player_wins = 0
 computer_wins = 0
 winning_score = 2
@@ -48,6 +49,7 @@ while computer_wins < winning_score and player_wins < winning_score:
 
     else:
         print("Something went wrong")
+
 if player_wins > computer_wins:
     print("Congradulations, You WON!!!")
 else:

@@ -12,5 +12,6 @@ while response.lower() == 'y':
             state = "high"
         print(f"Too {state}, try again!")
         guess = int(input("Guess a number between 1 and 10: "))
-    print("You guess it! You won!")
+    print("You guessed it! You won!")
     response = input("Do you want to keep playing? (y/n) ")
+print("Thank you for playing")
